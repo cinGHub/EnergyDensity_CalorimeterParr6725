@@ -4,10 +4,8 @@
 *Heat in* Selk’nam language / calor en Selk’nam
 
 *A reproducible R workflow for energy density estimation using a Parr
-6725 calorimeter*
-
-Flujo de trabajo reproducible en R para la estimación de densidad
-energética mediante un calorímetro Parr 672**5**
+6725 calorimeter/* Flujo de trabajo reproducible en R para la estimación
+de densidad energética mediante un calorímetro Parr 672**5**
 
 Developed by [Cintia
 Fraysse](https://www.researchgate.net/profile/Cintia-Fraysse?ev=hdr_xprf)
@@ -30,8 +28,6 @@ example
 ├── R/
 
 │ └── potken_workflow.R
-
-└── README.qmd
 
 ## **Overview of the workflow/Descripción general del flujo de trabajo**
 
