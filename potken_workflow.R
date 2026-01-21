@@ -1,6 +1,6 @@
 # ============================================================
 # POT-KEN workflow
-# Energy density estimation – Parr 6725 calorimeter
+# Energy density – Parr 6725 calorimeter
 # ============================================================
 
 library(readr)
