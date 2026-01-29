@@ -167,5 +167,5 @@ path_ <- here("Example")
 If you use this workflow or parts of it in your research, please cite:
 
 Fraysse, C., & Boy, C. C. (2026). Pot-ken: a reproducible R workflow for
-energy density estimation using a Parr 6725 bomb calorimeter (v1.3.1).
-Zenodo. <https://doi.org/10.5281/zenodo.18200628>
+energy density determination using a Parr 6725 bomb calorimeter
+(v1.3.1). Zenodo. <https://doi.org/10.5281/zenodo.18200628>
